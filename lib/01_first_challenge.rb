@@ -1,8 +1,10 @@
 def first_challenge
    epic_tragedy = {
-     montague: {
-       patr
+     :montague => {
+       #first  level 2 hash
      },
-     capulet: {}
+     :capulet => {
+       #second level 2 hash
+     }
    }
 end
